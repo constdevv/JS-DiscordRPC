@@ -1,20 +1,20 @@
 {
-  "name": "focus-rpc",
+  "name": "const-rpc",
   "version": "1.0.0",
-  "description": "made with focus",
+  "description": "made with const",
   "keywords": [
     "focus"
   ],
-  "homepage": "https://github.com/focusonn/JS-DiscordRPC#readme",
+  "homepage": "https://github.com/constdevv/JS-DiscordRPC#readme",
   "bugs": {
-    "url": "https://github.com/focusonn/JS-DiscordRPC/issues"
+    "url": "https://github.com/constdevv/JS-DiscordRPC/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/focusonn/JS-DiscordRPC.git"
   },
   "license": "ISC",
-  "author": "focus",
+  "author": "const",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
