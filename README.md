@@ -62,17 +62,17 @@ Edit the `activity` object in `index.js`:
 
 ```js
 const activity = {
-    details: "Hey I'm Focus",         // Main status
-    state: "I love coding new Technologies", // Secondary status
+    details: "",         // Main status
+    state: "", // Secondary status
     assets: {
-        large_image: 'bindly',        // Must match uploaded image in Developer Portal
-        large_text: 'BindlySosicalAPP',
-        small_image: 'artixbannerv2',
-        small_text: 'BindlySosicalAPP'
+        large_image: '',        // Must match uploaded image in Developer Portal
+        large_text: '',
+        small_image: '',
+        small_text: ''
     },
     buttons: [
-        { label: 'Bindly', url: 'https://discord.gg/D8KEd6UtYv' },
-        { label: 'Demo Web', url: 'https://bindly-demo.vercel.app' }
+        { label: '', url: '' },
+        { label: '', url: '' }
     ],
     startTimestamp: started
 };
