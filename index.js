@@ -5,17 +5,17 @@ const client = new RPC.Client({ transport: 'ipc' });
 const started = new Date();
 
 const activity = {
-    details: "Hey I'm Focus",
-    state: "I love coding new Technologies",
+    details: "",
+    state: "",
     assets: {
         large_image: 'bindly',
-        large_text: 'BindlySosicalAPP',
-        small_image: 'bindlyv2',
-        small_text: 'BindlySosicalAPP'
+        large_text: '',
+        small_image: '',
+        small_text: ''
     },
     buttons: [
-        { label: 'Bindly', url: 'https://discord.gg/D8KEd6UtYv' },
-        { label: 'Demo Web', url: 'https://bindly-demo.vercel.app' }
+        { label: '', url: '' },
+        { label: '', url: '' }
     ],
     startTimestamp: started
 };
